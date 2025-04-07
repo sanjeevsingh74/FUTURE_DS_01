@@ -10,7 +10,7 @@ Twitter likely dominates post volume, showing higher engagement compared to othe
 
 Country & Year-wise Activity:
 
-You’ve broken down post volume and sentiment by year and country—this shows growth in engagement over time and allows understanding of geographic influence.
+Broken down post volume and sentiment by year and country—this shows growth in engagement over time and allows understanding of geographic influence.
 
 Engagement Metrics:
 
@@ -26,5 +26,5 @@ Sentiment breakdown (positive, neutral, negative) per platform/year is a key ins
 
 WordCloud & Keywords:
 
-You’re generating visual wordclouds that help in understanding public conversation focus.
+Generated visual wordclouds that help in understanding public conversation focus.
 
