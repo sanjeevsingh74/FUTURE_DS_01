@@ -1,4 +1,4 @@
-# FUTURE_DS_01 ----- Social Media Sentiments Analysis
+# Social Media Sentiments Analysis
 
 ## Executive Summary
 **Goal:**
