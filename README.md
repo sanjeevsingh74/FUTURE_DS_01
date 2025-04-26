@@ -1,4 +1,9 @@
+
+![Details](https://github.com/user-attachments/assets/21c348e2-1ada-4129-a8c5-f6c6e2d49dc1)
+
+
 ![dashboard](https://github.com/user-attachments/assets/2abfd55a-42ee-46e3-9936-28098e8eaaa5)
+
 
 # Social Media Sentiments Analysis
 
@@ -23,7 +28,8 @@ Twitter drives the highest sentiment activity and viral posts.
 
 Facebook is more neutral, likely used for community updates.
 
-Instagram trends positive, especially for visuals and brands.
+Instagram trends positive, especially for visuals and brands.![Details](https://github.com/user-attachments/assets/bc9fe9b5-967d-4356-86a7-a33cf79cb454)
+
 
 **📅 Year-on-Year Growth:**
 Content and user engagement have grown consistently over the years.
