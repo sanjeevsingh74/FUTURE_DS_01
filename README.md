@@ -45,12 +45,14 @@ Twitter likely dominates post volume, showing higher engagement compared to othe
 **Country & Year-wise Activity:**
 
 Broken down post volume and sentiment by year and country—this shows growth in engagement over time and allows understanding of geographic influence.
-
+![Engagement Demo](https://github.com/user-attachments/assets/0261797d-fc1a-4111-a489-1b18f65c228f)
 **Engagement Metrics:**
 
 Likes and Retweets are compared per platform and over the years.
 
 Twitter likely shows the highest retweet activity, implying strong user interaction and viral content capability.
+
+![Sentiment](https://github.com/user-attachments/assets/d69436c8-b2db-4620-81d4-aae0e66f964d)
 
 **Sentiment Analysis:**
 
