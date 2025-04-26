@@ -33,6 +33,7 @@ Peak in sentiment-driven posts during global events (e.g., elections, pandemic).
 **🌎 Country-based Trends:**
 U.S., India, and U.K. are most active.
 
+![Engagement Demo](https://github.com/user-attachments/assets/0261797d-fc1a-4111-a489-1b18f65c228f)
 
 # 🔍 Key Findings
 
@@ -45,7 +46,7 @@ Twitter likely dominates post volume, showing higher engagement compared to othe
 **Country & Year-wise Activity:**
 
 Broken down post volume and sentiment by year and country—this shows growth in engagement over time and allows understanding of geographic influence.
-![Engagement Demo](https://github.com/user-attachments/assets/0261797d-fc1a-4111-a489-1b18f65c228f)
+
 **Engagement Metrics:**
 
 Likes and Retweets are compared per platform and over the years.
