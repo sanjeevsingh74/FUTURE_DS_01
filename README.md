@@ -1,3 +1,6 @@
+![Road Accident Dashboard](images/dashboard.png)
+
+
 # Social Media Sentiments Analysis
 
 ## Executive Summary
