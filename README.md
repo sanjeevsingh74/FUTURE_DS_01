@@ -1,4 +1,4 @@
-![Road Accident Dashboard](images/dashboard.png)
+![Road Accident Dashboard](images/Sentiment.png)
 
 
 # Social Media Sentiments Analysis
