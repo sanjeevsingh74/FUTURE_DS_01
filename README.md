@@ -1,6 +1,4 @@
-![Road Accident Dashboard](images/Sentiment.![dashboard](https://github.com/user-attachments/assets/2abfd55a-42ee-46e3-9936-28098e8eaaa5)
-png)
-
+![dashboard](https://github.com/user-attachments/assets/2abfd55a-42ee-46e3-9936-28098e8eaaa5)
 
 # Social Media Sentiments Analysis
 
